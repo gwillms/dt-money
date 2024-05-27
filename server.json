@@ -15,6 +15,14 @@
             "category": "Alimentação",
             "price": 50,
             "createdAt": "2024-05-26T22:25:42.479Z"
+        },
+        {
+            "id": 3,
+            "description": "Rocketseat",
+            "type": "outcome",
+            "category": "Educação",
+            "price": 1992,
+            "createdAt": "2024-05-27T22:25:42.479Z"
         }
     ]
 }
